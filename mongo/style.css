@@ -1,0 +1,28 @@
+*{
+    font-weight: bold;
+}
+
+h4{
+    font-weight: bold;
+}
+
+body{
+    background-image:url('slide-1.jpg');
+    background-size: cover;
+}
+
+
+.col-4{
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.form-control{
+    border: none;
+
+}
+
+.btn{
+    padding-left: 150px;
+    padding-right: 150px;
+}
